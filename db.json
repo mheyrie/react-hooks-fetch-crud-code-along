@@ -35,6 +35,60 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "food",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 7
+    },
+    {
+      "name": "Milk",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 8
+    },
+    {
+      "name": "Ice Cream",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 10
+    },
+    {
+      "name": "Noodles",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 11
+    },
+    {
+      "name": "Eggs",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 12
+    },
+    {
+      "name": "Waffles",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 13
+    },
+    {
+      "name": "WaterLeaf",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 14
+    },
+    {
+      "name": "Rice",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 15
+    },
+    {
+      "name": "Jollof Rice",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 16
     }
   ]
 }
